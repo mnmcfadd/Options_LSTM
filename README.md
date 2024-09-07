@@ -8,6 +8,8 @@ This project intends to was to experiment and test accuracy of standard and comp
 **Data**
 
 Options Price Data: Dolthub [Post-No-Preference Options Repo](https://www.dolthub.com/repositories/post-no-preference/options)
+
 Treasury Rate Data (to determine risk-free-rate): US Department of the Treasury [Daily Treasury Par-Yield Rates](https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics?data=yield)
+
 Asset Price History Data: Yahoo Finance [Historical Data Quotes](https://finance.yahoo.com/lookup)
 
